@@ -31,7 +31,6 @@ print(lm.predict(testX))
 
 # Recursive Feature Elimination
 # Support Vector Regression
-
 # start with all possible predictors
 predictors = ['TV', 'Radio', 'Newspaper']
 x = advert[predictors]
